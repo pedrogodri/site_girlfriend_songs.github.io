@@ -8,7 +8,7 @@ function sim() {
         "https://open.spotify.com/intl-pt/track/6SKwQghsR8AISlxhcwyA9R",
         "https://open.spotify.com/intl-pt/track/0LDT8QEHbPA0aawzm9CWP7",
         "https://open.spotify.com/intl-pt/track/5HOkVB35cz5nK6ZeRj0xM6",
-        "https://open.spotify.com/playlist/7v1qtJkRbKWP8QXN53BoEf",
+        "https://open.spotify.com/intl-pt/track/3QI5bIozef0HZ1kJnA2RdT",
         "https://open.spotify.com/intl-pt/track/5yEais1zgeW1MjLrx7tsie",
     ];
 
